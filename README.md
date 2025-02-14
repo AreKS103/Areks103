@@ -1,4 +1,6 @@
+<div align="center">
 
+```
                                    .~========~.                                
                               <](^****========~=~~~:                           
                           .(](^*******==*^<<<^==~~~~~~.                        
@@ -27,14 +29,15 @@
                         :<^<<^<^^<^^^^^<<<<^^^^^^^^:                           
                            .^<^<<^^^^^^^^^^^^^^*.                              
                                .=^<<^^^<^*=.                                   
-<div align="center">
-  <h1>👋 Hello, I'm Alex</h1>
+```
+
+<h1>👋 Hello, I'm Alex</h1>
   <p><i>A marketing major who decided to do something else than marketing</i></p>
 </div>
 
 ## About Me
 <br>🎨 UI/UX & Frontend Enthusiast
-<br>🛠️ Currently crafting Quil built with React
+<br>🛠️ Currently devlopping Quil built with React
 
 ## My Toolbox
 ```js
