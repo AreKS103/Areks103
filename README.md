@@ -1,7 +1,6 @@
 <div align="center">
   <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="48"/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=600&pause=500&color=000000&background=FFF63000&vCenter=true&random=true&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&weight=600&pause=500&color=fffff&background=FFF63000&vCenter=true&random=true&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
   </div>
 
 ## About Me
