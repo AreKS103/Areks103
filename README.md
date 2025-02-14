@@ -1,4 +1,4 @@
-<div>
+
                                    .~========~.                                
                               <](^****========~=~~~:                           
                           .(](^*******==*^<<<^==~~~~~~.                        
@@ -27,7 +27,6 @@
                         :<^<<^<^^<^^^^^<<<<^^^^^^^^:                           
                            .^<^<<^^^^^^^^^^^^^^*.                              
                                .=^<<^^^<^*=.                                   
-</div>⠀⠀⠀⠀⠀⠀⠀⠀⠀                                       
 <div align="center">
   <h1>👋 Hello, I'm Alex</h1>
   <p><i>A marketing major who decided to do something else than marketing</i></p>
