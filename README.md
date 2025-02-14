@@ -4,8 +4,8 @@
 </div>
 
 ## About Me
-- 🎨 UI/UX & Frontend Enthusiast
-- 🛠️ Currently crafting Quil built with React
+🎨 UI/UX & Frontend Enthusiast
+🛠️ Currently crafting Quil built with React
 
 ## My Toolbox
 ```js
