@@ -31,10 +31,10 @@ const alex = {
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AreKS103" alt="GitHub Streak" /></a>
 </div>
----
+
 
 <div align="center">
-  <sub>Always open to collaboration!</sub>
+  Always open to collaboration!
 </div>
 
 ### Show some ❤️ by starring repositories!
