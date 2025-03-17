@@ -11,7 +11,7 @@
 const alex = {
   languages: ['JavaScript', 'TypeScript', 'HTML', 'CSS'],
   frontend: ['React', 'Next.js', 'TailwindCSS'],
-  design: ['Figma', 'Creative Problem Solving'],
+  design: ['Figma', 'Vercel/v0', Lovable, and many other tools],
   currentlyLearning: ['Firebase', 'Authentication Flows'],
   interests: ['UI Animation', 'User Experience', 'Clean Code (*cough* *cough*)']
 }
